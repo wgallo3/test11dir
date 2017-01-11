@@ -1,0 +1,17 @@
+safe://dir.yvette/      Directory
+safe://diy.yvette/      List your pages
+safe://eddyjohn/        BITADDRESS.org
+safe://safetube.wom3/   VIDEO PLAYER
+safe://demo.wom/        Demo App
+safe://alien/           Alien Video
+safe://tetris.alien/   TETRIS
+safe://myfd.rsports/   Favorite Drinks RemoteStorage.js
+safe://frabrunelle/    Francis' bio
+safe://hello/          Hello translations
+safe://safeeditor.davidmtl/   EDITOR!!!!!
+safe://safewallet.wow/  Wallet & Passwords
+safe://safefaucet.wow/  Create Thankscoins
+safe://invoice-app.nobackend-example/nobackend-examples/safenet/index.html
+safe://editor.safedev/  Markdown Editor
+safe://mediawebrtc.ben/ Signaling Demo
+
